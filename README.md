@@ -1,4 +1,4 @@
-# output_reverse_reversal_python
+#  Reversing the Given List with Python
 
 '''
 1- Write a function that flattens a list. Its elements can consist of multi-layered lists (such as [[3],2]) or non-scalar data. For instance:
